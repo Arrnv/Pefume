@@ -1,14 +1,3 @@
-Perfect! You're using the **Côte Royale YouTube course starter from Prismic**, so yes — you should absolutely give **explicit credit** in your personal README to reflect:
-
-* That this was a **course project**
-* You’ve learned from it and possibly customized parts
-* You’re not claiming it as an original-from-scratch build
-
----
-
-### ✅ Here's a more honest, recruiter-friendly README intro you can use:
-
-````markdown
 # Côte Royale – Animated Luxury Website (Course Project)
 
 This website was built by following the [Côte Royale course by Prismic](https://coteroyalecourse.netlify.app/) – a beautifully designed animated landing page built with Next.js, Prismic, Framer Motion, and TailwindCSS.
