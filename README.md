@@ -49,12 +49,5 @@ npm run dev
 
 > ⚠️ Disclaimer: This project is built as part of a public YouTube course. I do not claim ownership of the original design or structure.
 
-```
 
----
 
-Let me know if:
-- You want to **add your own tweaks or customizations** to the project.
-- You’ve done anything **beyond the course** that you want to highlight.
-- You need a **cover image/thumbnail** to make your GitHub project pop. I can help you design one.
-```
